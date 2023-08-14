@@ -1,0 +1,33 @@
+
+h1 {
+    margin: 10px;
+}
+nav {
+    display: flex;
+    background-color: grey;
+    color:white;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    list-style: none;
+    margin-right: 10px;
+
+}
+div {
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: solid red 2px;
+}
+body {
+    background-color: lightcyan;
+}
